@@ -6,7 +6,7 @@ Vue.use(Router)
 export default new Router({
   routes: [
     {
-      path: '/',
+      path: '/actionSheet',
       name: 'actionSheet',
       component: r => require.ensure([], () => r(require('../components/actionSheet.vue')))
     },

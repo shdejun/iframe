@@ -112,7 +112,7 @@ var vue_router_esm = __webpack_require__("/ocq");
 vue_esm["a" /* default */].use(vue_router_esm["a" /* default */]);
 /* harmony default export */ var router = (new vue_router_esm["a" /* default */]({
   routes: [{
-    path: '/',
+    path: '/actionSheet',
     name: 'actionSheet',
     component: function component(r) {
       return __webpack_require__.e/* require.ensure */(1).then((function () {
@@ -942,4 +942,4 @@ new vue_esm["a" /* default */]({
 /***/ })
 
 },["mUtA"]);
-//# sourceMappingURL=app.d4af5f34c50c090046b1.js.map
+//# sourceMappingURL=app.541b4378ea97bff04919.js.map
