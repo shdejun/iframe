@@ -6,14 +6,10 @@
 </template>
 
 <script>
-import leftNav from './components/leftNav';
-import headerTop from './components/headerTop'
+
 export default {
   name: 'App',
-  components:{
-    leftNav,
-    headerTop
-  }
+ 
 }
 </script>
 

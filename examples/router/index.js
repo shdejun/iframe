@@ -10,5 +10,10 @@ export default new Router({
       name: 'actionSheet',
       component: r => require.ensure([], () => r(require('../components/actionSheet.vue')))
     },
+    {
+      path: '/button',
+      name: 'button',
+      component: r => require.ensure([], () => r(require('../components/button.vue')))
+    }
   ]
 })
