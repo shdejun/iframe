@@ -7,6 +7,13 @@ webpackJsonp([3],{
 
 /***/ }),
 
+/***/ "5Dcv":
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+
 /***/ "67pc":
 /***/ (function(module, exports) {
 
@@ -29,13 +36,6 @@ webpackJsonp([3],{
 /***/ }),
 
 /***/ "T8EF":
-/***/ (function(module, exports) {
-
-// removed by extract-text-webpack-plugin
-
-/***/ }),
-
-/***/ "dEBy":
 /***/ (function(module, exports) {
 
 // removed by extract-text-webpack-plugin
@@ -65,18 +65,17 @@ var vue_esm = __webpack_require__("7+uW");
 //
 //
 //
-//
 /* harmony default export */ var App = ({
   name: 'App'
 });
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/template-compiler?{"id":"data-v-44bd7dea","hasScoped":false,"transformToRequire":{"video":["src","poster"],"source":"src","img":"src","image":"xlink:href"},"buble":{"transforms":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./examples/App.vue
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{attrs:{"id":"app"}},[_c('router-view',{staticClass:"center-views"})],1)}
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/template-compiler?{"id":"data-v-2a46de10","hasScoped":false,"transformToRequire":{"video":["src","poster"],"source":"src","img":"src","image":"xlink:href"},"buble":{"transforms":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./examples/App.vue
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{attrs:{"id":"app"}},[_c('router-view')],1)}
 var staticRenderFns = []
 var esExports = { render: render, staticRenderFns: staticRenderFns }
 /* harmony default export */ var selectortype_template_index_0_examples_App = (esExports);
 // CONCATENATED MODULE: ./examples/App.vue
 function injectStyle (ssrContext) {
-  __webpack_require__("dEBy")
+  __webpack_require__("5Dcv")
 }
 var normalizeComponent = __webpack_require__("VU/8")
 /* script */
@@ -942,4 +941,4 @@ new vue_esm["a" /* default */]({
 /***/ })
 
 },["mUtA"]);
-//# sourceMappingURL=app.541b4378ea97bff04919.js.map
+//# sourceMappingURL=app.87ff21ef3d9ff7ff2d1c.js.map
