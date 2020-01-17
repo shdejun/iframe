@@ -1,0 +1,34 @@
+{
+  "开发指南":[
+    {
+      "name":"introduce",
+      "path":"/introduce",
+      "desc":"介绍"
+    },
+    {
+      "name":"start",
+      "path":"/start",
+      "desc":"快速上手"
+    }
+  ],
+  "基础组件":[
+    {
+      "name":"button",
+      "path":"/button",
+      "desc":"button按钮"
+    }
+  ],
+  "弹窗提示":[
+    {
+      "name":"actionSheet",
+      "path":"/actionSheet",
+      "desc":"actionSheet上拉菜单"
+    },
+    {
+      "name":"dialog",
+      "path":"/dialog",
+      "desc":"dialog对话框"
+    }
+  ]
+}
+
